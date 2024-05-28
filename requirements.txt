@@ -4,3 +4,4 @@ et-xmlfile==1.1.0
 mysqlclient==2.2.0
 Pillow==10.0.1
 python-dateutil==2.8.2
+whitenoise==6.5.0
